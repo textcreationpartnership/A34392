@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The converted Jacobite being a brief admonition to all our present murmurers, upon the present descent against France / by a late Jacobite.</title>
+            <author>Late Jacobite.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34392</idno>
+            <idno type="STC">Wing C5984_VARIANT</idno>
+            <idno type="STC">ESTC R37662</idno>
+            <idno type="EEBO-CITATION">16998891</idno>
+            <idno type="OCLC">ocm 16998891</idno>
+            <idno type="VID">105677</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105677)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1612:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The converted Jacobite being a brief admonition to all our present murmurers, upon the present descent against France / by a late Jacobite.</title>
+                  <author>Late Jacobite.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Westby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jacobites --  Poetry.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:105677:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <head>THE Converted Jacobite: BEING <hi>A Brief Admonition</hi> To all our preſent MURMURERS, Upon the Preſent Deſcent againſt <hi>France.</hi> 
+               <date>
+                  <add>28. July. 1692</add>
+               </date>
+            </head>
+            <byline>By a Late Jacobite.</byline>
+            <lg>
+               <l>ONce being overwhelm'd with Grief and Care,</l>
+               <l>In a moſt Melancholy deep Deſpair,</l>
+               <l>I ſate me down in a ſweet ſilent Grove,</l>
+               <l>Implor'd Aſſiſtance from Great Thundering <hi>Jove;</hi>
+               </l>
+               <l>And that he would be pleas'd to let me know,</l>
+               <l>His Mind to Mortals in this World below,</l>
+               <l>Whether the Ways were Good which here they take,</l>
+               <l>Allegiance from Great <hi>James</hi> thus to forſake,</l>
+               <l>And give the Crown unto his Royal Son:</l>
+               <l>Now, Is this well, which they on Earth have done?</l>
+            </lg>
+            <lg>
+               <l>When I had ſpoke, and theſe my Words had ended,</l>
+               <l>Great <hi>Jove,</hi> as I did think, to me deſcended,</l>
+               <l>
+                  <pb n="2" facs="tcp:105677:2"/>
+                  <!-- PDF PAGE 38 -->
+And with a ſurly Voice, theſe words he ſaid,</l>
+               <l>What wilt thou have of me? Art not afraid</l>
+               <l>To queſtion what I have done in this ſame thing,</l>
+               <l>To take the Crown from a Delinquent King,</l>
+               <l>And give the ſame unto his Royal Son?</l>
+               <l>Then Murmur not, for what I've done, I've done:</l>
+               <lg>
+                  <l>For 'twas my <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oyal Will, and my Decree,</l>
+                  <l>That now, henceforth, this Britiſh Land ſhould be</l>
+                  <l>From Po<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſpenſations ever free;</l>
+               </lg>
+               <l>And not once buckle to the Whore of <hi>Rome,</hi>
+               </l>
+               <l>Who ſhortly muſt expect her final Doom.</l>
+               <l>Then what do you, proud Mortals, to deſpiſe</l>
+               <l>What I have done? And with your loudeſt Cries,</l>
+               <l>Seek unto <hi>Him,</hi> who lately was caſt down,</l>
+               <l>And ſhall no more Poſſeſs the <hi>Engliſh</hi> Crown:</l>
+               <l>For now I've given it to a Potent Prince;</l>
+               <l>And this was by the Fates decreed long ſince:</l>
+               <l>And by the Word of Mighty <hi>Jove</hi> I ſpoke,</l>
+               <l>That he ſhould free you from all Tyrants Yoke.</l>
+               <l>He Tyrants ſhall ſubdue, and Nations free</l>
+               <l>From Servitude; and all the <hi>French</hi> ſhall ſee</l>
+               <lg>
+                  <l>His Mighty Actions, trembling at the ſame,</l>
+                  <l>And ſtand amazed at Great <hi>WILLIAM's</hi> Name,</l>
+                  <l>Which ſhall be Honour'd with eternal Fame.</l>
+               </lg>
+               <l>Ceaſe then your Tricks; in vain 'tis that you ſtrive,</l>
+               <l>To ſet Him up, whom Heaven did deprive:</l>
+               <l>Your Plots will fail; and you ſhall quickly know,</l>
+               <l>That I have pre-ordain'd your Overthrow:</l>
+               <l>Your Ruine and Deſtruction it will bring,</l>
+               <l>To ſeek to raiſe your <hi>Abdicated King,</hi>
+               </l>
+               <l>Who was Dethron'd by the Eternal Doom,</l>
+               <l>That Mighty <hi>WILLIAM</hi> ſhould ſupply his room<g ref="char:punc">▪</g>
+               </l>
+               <l>Give o'er then in time, elſe you ſhall ſee,</l>
+               <l>The <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igid Fate of your curſt Deſtiny.</l>
+               <l>Not being fit with <hi>Engliſh</hi> Men to dwell,</l>
+               <l>You muſt turn off, for there is room in Hell,</l>
+               <l>Which, for ſuch Rogues, is much the fitter place,</l>
+               <l>Who are the Spawn of a Rebellious Race.</l>
+               <l>
+                  <pb n="3" facs="tcp:105677:2"/>
+                  <!-- PDF PAGE 38 -->
+Then be content, and don't pretend to Slander</l>
+               <l>The Mighty Actions of the World's Commander:</l>
+               <l>For I do ſwear, by my fierce roaring Thunder,</l>
+               <l>I'll do ſuch Things will fill the World with Wonder.</l>
+            </lg>
+            <lg>
+               <l>No ſooner <hi>Jove</hi> himſelf theſe Words had ſpoke,</l>
+               <l>But at ſome diſtance there appear'd a Smoke,</l>
+               <l>An horrid, ſtin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, and ſulphureous Smell,</l>
+               <l>Then quickly did appear the Devil of Hell;</l>
+               <l>Who, when he ſaw Great <hi>Jove</hi> to be ſo near,</l>
+               <l>He kept far off, ſurpriz'd with ſudden fear,</l>
+               <l>And from his Preſence did begin to fly;</l>
+               <l>
+                  <hi>Jove</hi> call'd him back, then he came quickly nigh.</l>
+               <l>Where haſt thou been, Grim <hi>Pluto,</hi> then he ſaid?</l>
+               <l>Haſt been at Work at thy Infernal Trade?</l>
+               <l>I have, ſaid he, (and in a Paſſion Swore)</l>
+               <l>And Work'd ſo hard, I ne'er Work'd ſo before.</l>
+               <l>What is the reaſon thou'rt ſo hard at Work?</l>
+               <l>Doſt thou expect Great <hi>Lewis,</hi> or the <hi>Turk,</hi>
+               </l>
+               <l>For to attend at thy Infernal Court?</l>
+               <l>Or doſt thou want ſome Fools to make the Sport?</l>
+               <l>If ſo, a Thouſand <hi>Jacobites</hi> I'll ſend thee,</l>
+               <l>Their Company's good, and can't offend thee.</l>
+               <l>Thou always wer't their Friend, they like thee well,</l>
+               <l>I think no Place ſo fit for them as Hell.</l>
+               <l>Be thou but ſure, that when thou haſt them there,</l>
+               <l>Thou keep them under with a Slaviſh Fear:</l>
+               <l>Thus if thou doſt, the better they will be,</l>
+               <l>And Chain them faſt, they'll never run from thee.</l>
+               <l>Then <hi>Pluto</hi> ſaid, Great <hi>Jove</hi> I thee implore,</l>
+               <l>To ſend enough, none I'll lay up in Store:</l>
+               <l>This ſort of Cattle I like beſt of all,</l>
+               <l>None comes amiſs to me of great and ſmall.</l>
+               <l>Ne'er ſparing be, or think that I want Room;</l>
+               <l>But ſend them all, I do not care how ſoon;</l>
+               <l>I have ſome by me, ſeem to be good Meat,</l>
+               <l>I'll fry them well, then they'll be fit to eat:</l>
+               <l>When they are caught and foil'd in their own Treaſon,</l>
+               <l>Then the <hi>Jacobites</hi> are here in Seaſon.</l>
+               <l>
+                  <pb n="4" facs="tcp:105677:3"/>
+                  <!-- PDF PAGE 39 -->
+But if I thought they would officiate</l>
+               <l>As heretofore, with a projecting Pate,</l>
+               <l>Then I would beg they might here longer ſtay,</l>
+               <l>And not be hurried in ſuch haſt away.</l>
+               <l>They've done their beſt, and they can do no more,</l>
+               <l>To me their welcome, I will pay their Score;</l>
+               <l>Well then quoth <hi>Jove,</hi> I'll ſend you them ſo faſt,</l>
+               <l>You ſhant miſs one, but have them all at laſt.</l>
+               <l>For as for Heaven, now I Vow and Swear,</l>
+               <l>And do proteſt that none ſhall e'er come there.</l>
+               <l>So get thee Back, now <hi>Pluto</hi> to retreat,</l>
+               <l>And take thy Place in thy infernal Seat;</l>
+               <l>Be ready to receive, when I do ſend 'em,</l>
+               <l>And try what you can do, for we can't mend 'em;</l>
+               <l>I'll ſend you <hi>LEWIS,</hi> and make Room be ſure,</l>
+               <l>For he a rouzing Heat may well endure.</l>
+               <l>Prepare a Place for him then with all Speed,</l>
+               <l>I'll ſend him quickly, he ſhall come indeed.</l>
+               <l>With that Grim <hi>Pluto</hi> made no longer ſtay,</l>
+               <l>But of a ſuddain vaniſht quite away.</l>
+               <l>And then quoth <hi>Jove,</hi> no mortal Man doth hear</l>
+               <l>Their tragick End, which now approaches near.</l>
+               <l>Love Great King <hi>William,</hi> his Sword that ſhall prevail,</l>
+               <l>This I have ſaid, and not one Word ſhall fail.</l>
+               <l>For nought ſhall hurt him, or ſtand in his Way</l>
+               <l>To hinder him, for he ſhall win the Day.</l>
+               <l>Thus <hi>Jove</hi> departing flew into the Skies,</l>
+               <l>And ſoon was hid from my poor Mortal Eyes.</l>
+            </lg>
+            <lg>
+               <l>This was my Viſion then which I did ſee,</l>
+               <l>My Brother <hi>Jacobites,</hi> belive you me,</l>
+               <l>But if you don't, the Caſe is ſtill the ſame;</l>
+               <l>I told the Truth, and you are all to blame.</l>
+               <l>If you perſiſt in your rebellious Will,</l>
+               <l>You make your ſelves alone unhappy ſtill;</l>
+               <l>Then be content, and don't your ſelves deceive,</l>
+               <l>Take good Advice, and ſo I'll take my Leave.</l>
+            </lg>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: <hi>Printed for</hi> A. Weſtby <hi>without</hi> Temple-Bar. <hi>1692.</hi>
+            </p>
+            <pb facs="tcp:105677:3"/>
+            <!-- PDF PAGE 39 -->
+         </div>
+      </back>
+   </text>
+</TEI>
